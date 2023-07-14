@@ -1,2 +1,2 @@
-# Discoteque
+# Boot Camp
 Boot Camp
